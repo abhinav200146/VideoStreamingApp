@@ -1,4 +1,4 @@
-# FullStack Twitch Clone: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, Cockroach & TypeScript
+# FullStack: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, Cockroach & TypeScript
 
 
 Key Features:
